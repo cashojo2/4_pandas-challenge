@@ -1,2 +1,1 @@
-This repository demonstrates the use of Python, Pandas, and Jupyter Notebook to manipulate Pandas DataFrames to analyze school budget and standardized test data. This required aggregation of multiple data sources.
-
+This repository demonstrates the use of Python, Pandas, and Jupyter Notebook to analyze a school district's budget and standardized test data. This analysis required aggregation of multiple data sources and the manipulation of Pandas DataFrames.
